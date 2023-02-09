@@ -1,0 +1,9 @@
+.denuncias{
+    
+        display: flex;
+        margin-left: 11%;
+        margin-top: 0px;
+        width: 300px;
+        flex-direction: column;
+    
+}

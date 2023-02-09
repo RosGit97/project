@@ -1,0 +1,52 @@
+.bodyRegisto{
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 3px solid;
+    border-color: rgb(37, 0, 92);
+    border-radius: 15px;
+    padding: 10px; 
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 480px;
+    margin-bottom: 10px; 
+    background-color: rgb(81, 81, 230);
+    align-items: center;
+    color: white;
+}
+.dado{
+    /* margin-bottom: 5px; */
+}
+.dado1{
+    background-color: rgb(236, 236, 17);
+    border: none;
+    border: 1px solid;
+    border-color: rgb(236, 236, 17);
+    border-radius: 5px;
+    color: white;
+    height: 30px;
+    width: 120px;
+    margin-right: 10px;
+}
+.buttonDado{
+    
+    background-color: rgb(236, 236, 17);
+    border: none;
+    border: 1px solid;
+    border-color: rgb(236, 236, 17);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 100px;
+}
+.dadoSelect{
+    margin-top: 15px;
+    background-color: rgb(236, 236, 17);
+    border: none;
+    border: 1px solid;
+    border-color: rgb(236, 236, 17);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 175px;
+}

@@ -1,0 +1,77 @@
+.body{
+    margin-top: 60px;
+}
+.bodyLeft {
+    width: 49%;
+    float: left;
+}
+
+.bodyRight {
+   
+    width: 49%;
+    float: right;
+   
+    /* background-image: url("../icons/guardian_60px.png"); */
+}
+
+.titulo2 {
+    width: 200px;
+    text-align: center;
+    margin-left: 70px;
+}
+
+.paragrafoInfor {
+    text-align: justify;
+    width: 95%;
+    
+    margin: 0 auto;
+    color: rgb(56, 56, 56);
+}
+
+.BemVindo {
+    text-indent: 80px;
+    padding: 0;
+    margin: 0;
+}
+.h2Titulo2{
+    color: rgb(56, 56, 56);
+}
+
+.AQUI {
+    text-decoration: underline;
+    color: blue;
+}
+.speech{
+    float: left;
+    margin-top: 8px;
+    margin-left: 10px;
+    
+}
+.guardian{
+    float: left;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
+    
+}
+.FC{
+    float: right;
+    width: 130px;
+   
+}
+.button{
+    width: 200px;
+    border: 3px solid;
+    border-color: rgb(37, 0, 92);
+    border-radius: 15px;
+    margin-top: 30px;
+}
+.button:hover{
+    background-color: rgba(0, 0, 255, 0.45);
+    color: rgb(255, 255, 255);
+}
+.faleConnosco{
+   
+    width: 200px;
+    margin: 0 auto;
+}

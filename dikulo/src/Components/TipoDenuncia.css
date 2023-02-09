@@ -1,0 +1,24 @@
+.tipoDenuncia{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 300px;
+    flex-direction: column;
+}
+.linke{
+    width: 300px;
+    height: 60px;
+    border: 3px solid;
+    border-color: rgb(255, 243, 11);
+    border-radius: 15px;
+    margin: 8px;
+    text-align: center;
+    
+    text-decoration: none;
+    font-size: 30px;
+    color:black;
+    
+}
+.linke:hover{
+    background-color: rgba(255, 243, 11, 0.516);;
+}

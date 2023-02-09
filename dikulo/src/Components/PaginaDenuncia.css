@@ -1,0 +1,76 @@
+.div{
+    /* border: 3px solid;
+    border-color: rgb(37, 0, 92);
+    border-radius: 15px;
+    padding: 10px; */
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    /* margin-bottom: 10px; */
+}
+
+.classeCrime{
+    border-bottom: 40px;
+    border-color: rgb(235, 239, 25);
+    border-radius: 15px;
+}
+.input{
+    border:none;
+    border: 3px solid;
+    border-color: rgb(235, 239, 25);
+    border-radius: 5px;
+}
+.input:focus{
+    border:none;
+    border: 3px solid;
+    border-color: rgb(235, 239, 25);
+    border-radius: 5px;
+}
+#divRow{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+}
+.botao{
+    width: 40px;
+}
+.imgBotao{
+    margin:0 auto;
+    margin-top: 1.5px;
+    padding: 0;
+   
+}
+.descricaoText{
+    max-width: 400px;
+    border:none;
+    border: 3px solid;
+    border-color: rgb(235, 239, 25);
+    border-radius: 5px;
+}
+.descricaoText:focus{
+    max-width: 400px;
+    max-height: 50px;
+    border:none;
+    border: 3px solid;
+    border-color: rgb(235, 239, 25);
+    border-radius: 5px;
+}
+#botaoEnviar{
+   
+    width: 400px;
+}
+.botaoEnviarB{
+    background-color: rgb(79, 79, 238);
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    border: 3px solid;
+    border-color: white;
+    border-radius: 10px;
+    color: white;
+}
